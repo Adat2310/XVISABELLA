@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Invitación de Isabella</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f8f9fa;
+            color: #333;
+            padding: 50px;
+        }
+        .invitacion {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            display: inline-block;
+        }
+        h1 {
+            color: #e63946;
+        }
+        p {
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <div class="invitacion">
+        <h1>¡Estás invitado!</h1>
+        <p>Acompáñanos a celebrar con Isabella</p>
+        <p><strong>Fecha:</strong> 31 de Mayo</p>
+        <p>¡Esperamos verte allí!</p>
+    </div>
+</body>
+</html>
